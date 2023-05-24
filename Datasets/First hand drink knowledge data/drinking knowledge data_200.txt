@@ -1,0 +1,402 @@
+	1 	What is the recommended daily water intake?    
+	•	The recommended daily water intake is around 2 to 3 liters or 8 to 12 cups.
+	2	Is drinking water while eating bad for you?
+	•	No, drinking water while eating is not bad for you. It can actually aid digestion.
+	3	Can drinking too much water be harmful?
+	•	Yes, drinking too much water can be harmful and lead to a condition called water intoxication.
+	4	What is the recommended daily caffeine intake?
+	•	The recommended daily caffeine intake is no more than 400mg per day, which is equivalent to about 4 cups of coffee.
+	5	Does coffee dehydrate you?
+	•	No, coffee does not dehydrate you. It is a mild diuretic, but the amount of water in a cup of coffee is enough to offset any fluid loss.
+	6	Can drinking coffee improve your athletic performance?
+	•	Yes, drinking coffee can improve athletic performance by increasing endurance and reducing fatigue.
+	7	What is the recommended daily alcohol intake for men?
+	•	The recommended daily alcohol intake for men is no more than 2 drinks per day.
+	8	What is the recommended daily alcohol intake for women?
+	•	The recommended daily alcohol intake for women is no more than 1 drink per day.
+	9	What is the definition of a standard drink?
+	•	A standard drink is typically defined as a 12-ounce beer, 5-ounce glass of wine, or 1.5-ounce shot of liquor.
+	10	How long does it take for alcohol to leave your system?
+	•	It takes about one hour for your body to metabolize one standard drink.
+	11	What is a hangover?
+	•	A hangover is the unpleasant physical and mental effects that can occur after drinking too much alcohol.
+	12	What are the symptoms of a hangover?
+	•	The symptoms of a hangover can include headache, nausea, fatigue, dehydration, and sensitivity to light and sound.
+	13	How can you prevent a hangover?
+	•	You can prevent a hangover by drinking in moderation, drinking plenty of water, eating a meal before drinking, and avoiding sugary or carbonated drinks.
+	14	What is binge drinking?
+	•	Binge drinking is the consumption of a large amount of alcohol in a short period of time, typically resulting in a blood alcohol concentration of 0.08% or higher.
+	15	What are the risks associated with binge drinking?
+	•	The risks associated with binge drinking include alcohol poisoning, accidents, injuries, impaired judgment, and long-term health problems such as liver disease.
+	16	What is alcoholism?
+	•	Alcoholism is a chronic disease characterized by a strong desire to consume alcohol despite negative consequences.
+	17	What are the signs of alcoholism?
+	•	The signs of alcoholism can include a strong craving for alcohol, continued drinking despite negative consequences, tolerance to alcohol, withdrawal symptoms when not drinking, and neglect of personal and professional responsibilities.
+	18	How can you help someone with alcoholism?
+	•	You can help someone with alcoholism by encouraging them to seek professional help, offering emotional support, and avoiding enabling behaviors such as covering up their drinking or making excuses for their behavior.
+	19	What is a breathalyzer?
+	•	A breathalyzer is a device used to measure the blood alcohol concentration in a person's breath.
+	20	How accurate are breathalyzers?
+	•	Breathalyzers can be accurate when used correctly, but they can also be affected by a variety of factors such as the type of device used, the calibration of the device, and the individual's breathing pattern.
+	21	What is a blood alcohol test?
+	•	A blood alcohol test is a laboratory test that measures the amount of alcohol in a person's bloodstream
+	22	How accurate are blood alcohol tests?
+	•	Blood alcohol tests are generally considered more accurate than breathalyzers, but they also require a blood sample to be drawn, which can be invasive and time-consuming.
+	23	What is a field sobriety test?
+	•	A field sobriety test is a series of physical and cognitive tests used by law enforcement to determine if a person is impaired by alcohol or drugs.
+	24	What are some common field sobriety tests?
+	•	Some common field sobriety tests include the walk-and-turn test, the one-leg stand test, and the horizontal gaze nystagmus test.
+	25	How reliable are field sobriety tests?
+	•	Field sobriety tests can be influenced by a variety of factors, such as the individual's physical condition, the conditions of the testing environment, and the officer's subjective interpretation of the results. As a result, they are not always considered reliable indicators of impairment.
+	26	Can you drive after having one drink?
+	•	It is possible to drive after having one drink, but it depends on factors such as your weight, gender, and metabolism, as well as the type and amount of alcohol consumed.
+	27	Can you drink and breastfeed?
+	•	It is generally recommended that breastfeeding mothers avoid drinking alcohol, as alcohol can pass into breast milk and affect the baby's developing brain.
+	28	How long does it take for alcohol to leave breast milk?
+	•	Alcohol takes about 2-3 hours to leave breast milk for each standard drink consumed.
+	29	What is a sober companion?
+	•	A sober companion is a trained professional who provides support and accountability to individuals in recovery from addiction.
+	30	What is a support group?
+	•	A support group is a group of people who come together to share their experiences and provide mutual support and encouragement.
+	31	What is Alcoholics Anonymous?
+	•	Alcoholics Anonymous is a global organization that provides support and resources for individuals in recovery from alcohol addiction.
+	32	What is SMART Recovery?
+	•	SMART Recovery is a global organization that provides support and resources for individuals in recovery from addiction, using a science-based approach to recovery.
+	33	What is moderation management?
+	•	Moderation management is a support group and approach to recovery that focuses on helping individuals moderate their alcohol consumption rather than abstaining completely.
+	34	Can you become addicted to non-alcoholic drinks?
+	•	While non-alcoholic drinks do not contain alcohol, they can still be addictive if they contain substances such as caffeine or sugar.
+	35	What is caffeine addiction?
+	•	Caffeine addiction is a dependence on caffeine, which can lead to withdrawal symptoms such as headache, fatigue, and irritability when caffeine consumption is reduced or eliminated.
+	36	How much caffeine is in a cup of coffee?
+	•	The amount of caffeine in a cup of coffee can vary depending on factors such as the type of coffee bean and the brewing method, but on average, a cup of coffee contains around 95mg of caffeine.
+	37	Can you become addicted to energy drinks?
+	•	Energy drinks can be addictive if they contain high levels of caffeine or other stimulants.
+	38	What are the risks associated with energy drink consumption?
+	•	The risks associated with energy drink consumption can include caffeine overdose, dehydration, increased heart rate and blood pressure, and interactions with medications.
+	39	Can drinking too much soda be harmful?
+	•	Drinking too much soda can be harmful due to its high sugar content, which can lead to weight gain, tooth decay, and an increased risk of type 2 diabetes.
+	40	What is the recommended daily sugar intake?
+	•	The recommended daily sugar intake is no more than 25 grams or 6 teaspoons for women and no more than 36 grams or 9 teaspoons for men.
+	41	What is the difference between beer and wine?
+	•	Beer
+	42	What is the difference between ales and lagers?
+	•	Ales and lagers are two different types of beer that are differentiated by the type of yeast used in the fermentation process. Ales use a type of yeast that ferments at warmer temperatures and produces a fruity or spicy flavor, while lagers use a type of yeast that ferments at cooler temperatures and produces a cleaner, crisper flavor.
+	43	What is a microbrewery?
+	•	A microbrewery is a small, independent brewery that produces a limited amount of beer, often with a focus on unique or artisanal flavors.
+	44	What is a distillery?
+	•	A distillery is a facility where alcoholic beverages such as whiskey, rum, or vodka are produced through the process of distillation.
+	45	What is moonshine?
+	•	Moonshine is a type of distilled alcoholic beverage that is traditionally made illegally and without government regulation. It is often associated with the American South and is typically made from corn or other grains.
+	46	What is mezcal?
+	•	Mezcal is a type of distilled alcoholic beverage made from the agave plant, which is also used to make tequila.
+	47	What is sake?
+	•	Sake is a traditional Japanese alcoholic beverage made from fermented rice.
+	48	What is absinthe?
+	•	Absinthe is a highly alcoholic, anise-flavored spirit that is typically green in color. It has a controversial history and was banned in many countries for a period of time due to its perceived harmful effects.
+	49	What is a wine cellar?
+	•	A wine cellar is a storage area specifically designed for storing wine. It is typically kept at a cool temperature and humidity level to ensure the wine is stored in optimal conditions.
+	50	What is a sommelier?
+	•	A sommelier is a wine expert who is trained in wine tasting, selection, and service.
+	51	What is a wine tasting?
+	•	A wine tasting is an event or activity where participants sample different wines and evaluate them based on various factors such as flavor, aroma, and appearance.
+	52	What is a wine pairing?
+	•	A wine pairing is the process of selecting a wine that complements or enhances the flavors of a particular food dish.
+	53	What is a wine list?
+	•	A wine list is a menu that lists the different types of wines available at a restaurant or other establishment.
+	54	What is a corkage fee?
+	•	A corkage fee is a fee charged by a restaurant or other establishment for bringing your own bottle of wine.
+	55	What is a wine cooler?
+	•	A wine cooler is a type of appliance used for storing wine at a controlled temperature. It is typically designed for home use and can be used for both short-term and long-term storage.
+	56	What is a wine decanter?
+	•	A wine decanter is a glass vessel used for pouring wine and allowing it to aerate before serving. It can help to enhance the flavor and aroma of the wine.
+	57	What is a wine aerator?
+	•	A wine aerator is a device used to expose wine to air, which can help to improve its flavor and aroma.
+	58	What is a wine stopper?
+	•	A wine stopper is a device used to seal an opened bottle of wine to help preserve its freshness.
+	59	What is a wine rack?
+	•	A wine rack is a storage device used for holding bottles of wine. It can range in size from a small countertop rack to a large, floor-standing unit.
+	60	What is a wine glass?
+	•	A wine glass is a type of glassware used for serving wine. It is typically designed to enhance the aroma and flavor of the wine.
+	61	What is a champagne flute?
+	•	A champagne flute is a type of wine glass specifically designed for serving champagne or other sparkling wines. It has a tall, narrow shape that helps to preserve the bubbles and enhance the aroma.
+	62	What is a beer stein?
+	•	A beer stein is a type of drinking vessel traditionally used for serving beer. It is typically made of ceramic or glass and has a lid to help keep the beer cool and protect it from insects.
+	63	What is a shot glass?
+	•	A shot glass is a small glass used for serving spirits or other strong alcoholic beverages in small quantities.
+	64	What is a jigger?
+	•	A jigger is a measuring tool used by bartenders to measure out precise amounts of liquor for cocktails.
+	65	What is a mixer?
+	•	A mixer is a non-alcoholic beverage that is mixed with spirits to create a cocktail. Examples include soda, juice, and tonic water.
+	66	What is a cocktail shaker?
+	•	A cocktail shaker is a device used to mix and chill cocktails. It typically consists of a metal or glass container with a lid that can be shaken to mix the ingredients.
+	67	What is a martini?
+	•	A martini is a cocktail typically made with gin or vodka and vermouth, served chilled and often garnished with an olive or a twist of lemon.
+	68	What is a margarita?
+	•	A margarita is a cocktail typically made with tequila, lime juice, and triple sec, served with salt on the rim of the glass.
+	69	What is a daiquiri?
+	•	A daiquiri is a cocktail typically made with rum, lime juice, and sugar, served chilled and often garnished with a slice of lime.
+	70	What is a Manhattan?
+	•	A Manhattan is a cocktail typically made with whiskey, sweet vermouth, and bitters, served chilled and often garnished with a cherry.
+	71	What is a mojito?
+	•	A mojito is a cocktail typically made with rum, lime juice, mint leaves, and sugar, served chilled and often garnished with a sprig of mint.
+	72	What is a Bloody Mary?
+	•	A Bloody Mary is a cocktail typically made with vodka, tomato juice, and spices, served chilled and often garnished with celery or other vegetables.
+	73	What is a mimosa?
+	•	A mimosa is a cocktail typically made with champagne or other sparkling wine and orange juice.
+	74	What is a gin and tonic?
+	•	A gin and tonic is a cocktail typically made with gin and tonic water, served chilled and often garnished with a slice of lime.
+	75	What is a Long Island Iced Tea?
+	•	A Long Island Iced Tea is a cocktail typically made with rum, gin, vodka, tequila, and triple sec, mixed with cola and lemon juice and served over ice.
+	76	What is a Tequila Sunrise?
+	•	A Tequila Sunrise is a cocktail typically made with tequila, orange juice, and grenadine, served chilled and often garnished with a slice of orange.
+	77	What is a piña colada?
+	•	A piña colada is a cocktail typically made with rum, pineapple juice, and coconut cream, served blended or on the rocks.
+	78	What is a Cosmopolitan?
+	•	A Cosmopolitan is a cocktail typically made with vodka, cranberry juice, triple sec, and lime juice, served chilled and often garnished with a slice of lime.
+	79	What is a Negroni?
+	•	A Negroni is a cocktail typically made with gin, Campari, and sweet vermouth, served chilled and often garnished with a slice of orange.
+	80	What is a Sazerac?
+	•	A Sazer
+	80	What is a Sazerac?
+	•	A Sazerac is a cocktail traditionally made with rye whiskey, absinthe, sugar, and bitters, served chilled and often garnished with a lemon twist.
+	81	What is a hot toddy?
+	•	A hot toddy is a warm alcoholic beverage typically made with whiskey, honey, lemon juice, and hot water or tea, often garnished with a cinnamon stick or lemon wedge.
+	82	What is a Moscow Mule?
+	•	A Moscow Mule is a cocktail typically made with vodka, ginger beer, and lime juice, served over ice in a copper mug.
+	83	What is a Paloma?
+	•	A Paloma is a cocktail typically made with tequila, grapefruit soda, and lime juice, served over ice and often garnished with a slice of grapefruit.
+	84	What is a Sidecar?
+	•	A Sidecar is a cocktail typically made with brandy, triple sec, and lemon juice, served chilled and often garnished with a sugar rim and lemon twist.
+	85	What is a Gibson?
+	•	A Gibson is a cocktail similar to a martini but with a pickled onion garnish instead of an olive or lemon twist.
+	86	What is a French 75?
+	•	A French 75 is a cocktail typically made with gin, lemon juice, and champagne or other sparkling wine, served chilled and often garnished with a lemon twist.
+	87	What is a Bellini?
+	•	A Bellini is a cocktail typically made with Prosecco and peach puree or peach schnapps, served chilled and often garnished with a slice of peach.
+	88	What is a Dark and Stormy?
+	•	A Dark and Stormy is a cocktail typically made with dark rum, ginger beer, and lime juice, served over ice and often garnished with a lime wedge.
+	89	What is a Whiskey Sour?
+	•	A Whiskey Sour is a cocktail typically made with whiskey, lemon juice, and sugar, served chilled and often garnished with a cherry and/or orange slice.
+	90	What is a Rob Roy?
+	•	A Rob Roy is a cocktail similar to a Manhattan but made with Scotch whiskey instead of rye or bourbon.
+	91	What is a Rusty Nail?
+	•	A Rusty Nail is a cocktail typically made with Scotch whiskey and Drambuie, a honey and herb-flavored liqueur, served over ice and often garnished with a lemon twist.
+	92	What is a Bloody Caesar?
+	•	A Bloody Caesar is a cocktail similar to a Bloody Mary but made with clamato juice (a blend of tomato and clam juice) instead of plain tomato juice.
+	93	What is a Hurricane?
+	•	A Hurricane is a cocktail typically made with rum, passion fruit syrup, and lime juice, served over ice and often garnished with a slice of orange and/or cherry.
+	94	What is a Mai Tai?
+	•	A Mai Tai is a cocktail typically made with rum, orange curacao, lime juice, and orgeat syrup (a sweet almond syrup), served over ice and often garnished with a sprig of mint and/or pineapple wedge.
+	95	What is a Kamikaze?
+	•	A Kamikaze is a cocktail typically made with vodka, triple sec, and lime juice, served chilled and often garnished with a lime wedge.
+	96	What is a Zombie?
+	•	A Zombie is a cocktail typically made with several types of rum, fruit juices, and grenadine, served over ice and often garnished with a cherry and/or pineapple wedge.
+	97	What is a Blue Hawaii?
+	•	A Blue Hawaii is a cocktail typically made with rum, blue curacao, pineapple juice, and sweet and sour mix, served over ice and often garnished with a slice of pineapple and/or cherry
+	98	What is a Margarita?
+	•	A Margarita is a cocktail typically made with tequila, lime juice, and orange liqueur, served over ice and often rimmed with salt.
+	99	What is a Daiquiri?
+	•	A Daiquiri is a cocktail typically made with rum, lime juice, and sugar, served chilled and often garnished with a lime wedge.
+	100	What is a Mojito?
+	•	A Mojito is a cocktail typically made with rum, lime juice, sugar, mint leaves, and soda water, served over ice and often garnished with a sprig of mint.
+	101	What is a Pina Colada?
+	•	A Pina Colada is a cocktail typically made with rum, pineapple juice, and coconut cream, served blended or over ice and often garnished with a pineapple wedge and/or cherry.
+	102	What is a Caipirinha?
+	•	A Caipirinha is a cocktail typically made with cachaça (a Brazilian sugar cane spirit), lime wedges, and sugar, muddled together and served over ice.
+	103	What is a White Russian?
+	•	A White Russian is a cocktail typically made with vodka, coffee liqueur, and heavy cream, served over ice and often garnished with a dusting of nutmeg.
+	104	What is a Black Russian?
+	•	A Black Russian is a cocktail typically made with vodka and coffee liqueur, served over ice and often garnished with a cherry.
+	105	What is a Grasshopper?
+	•	A Grasshopper is a cocktail typically made with creme de menthe, creme de cacao, and cream, served blended or over ice and often garnished with a mint leaf.
+	106	What is a Brandy Alexander?
+	•	A Brandy Alexander is a cocktail typically made with brandy, creme de cacao, and cream, served blended or over ice and often garnished with a dusting of nutmeg.
+	107	What is a Tom Collins?
+	•	A Tom Collins is a cocktail typically made with gin, lemon juice, sugar, and soda water, served over ice and often garnished with a cherry and/or lemon wedge.
+	108	What is a Gin and Tonic?
+	•	A Gin and Tonic is a cocktail typically made with gin and tonic water, served over ice and often garnished with a lime wedge.
+	109	What is a Vodka Tonic?
+	•	A Vodka Tonic is a cocktail typically made with vodka and tonic water, served over ice and often garnished with a lime wedge.
+	110	What is a Screwdriver?
+	•	A Screwdriver is a cocktail typically made with vodka and orange juice, served over ice and often garnished with an orange wedge.
+	111	What is a Fuzzy Navel?
+	•	A Fuzzy Navel is a cocktail typically made with peach schnapps and orange juice, served over ice and often garnished with an orange wedge.
+	112	What is a Sex on the Beach?
+	•	A Sex on the Beach is a cocktail typically made with vodka, peach schnapps, orange juice, and cranberry juice, served over ice and often garnished with an orange slice.
+	113	What is a Long Island Iced Tea?
+	•	A Long Island Iced Tea is a cocktail typically made with several types of liquor (vodka, gin, rum, tequila, and triple sec), lemon juice, cola, and simple syrup, served over ice and often garnished with a lemon wedge.
+	114	What is a Tequila Sunrise?
+	•	A Tequila Sunrise is a cocktail typically made with tequila, orange juice, and grenadine, served over ice and often garnished with an orange slice.
+	115	What is a Zombie Punch?
+	•	A Zombie Punch is a cocktail similar to
+   	116	What is a Cosmopolitan ?
+	•	A Cosmopolitan, also known as a "Cosmo," is a cocktail typically made with vodka, cranberry juice, lime juice, and triple sec, served chilled in a martini glass and often garnished with a twist of lime.
+	117	What is a Moscow Mule?
+	•	A Moscow Mule is a cocktail typically made with vodka, ginger beer, and lime juice, served over ice in a copper mug and often garnished with a lime wedge.
+	118	What is a Dark and Stormy?
+	•	A Dark and Stormy is a cocktail typically made with dark rum and ginger beer, served over ice and often garnished with a lime wedge.
+	119	What is a Kentucky Mule?
+	•	A Kentucky Mule, also known as a "Bourbon Mule," is a cocktail typically made with bourbon, ginger beer, and lime juice, served over ice and often garnished with a lime wedge.
+	120	What is a Whiskey Sour?
+	•	A Whiskey Sour is a cocktail typically made with whiskey, lemon juice, and sugar, served over ice and often garnished with a cherry and/or orange slice.
+	121	What is a Mai Tai?
+	•	A Mai Tai is a cocktail typically made with several types of rum, orange curacao, lime juice, orgeat syrup, and simple syrup, served over ice and often garnished with a sprig of mint and/or fruit slices.
+	122	What is a Hurricane?
+	•	A Hurricane is a cocktail typically made with several types of rum, passion fruit syrup, lemon juice, and grenadine, served over ice and often garnished with a fruit wedge and/or cherry.
+	123	What is a Singapore Sling?
+	•	A Singapore Sling is a cocktail typically made with gin, cherry liqueur, pineapple juice, lime juice, and grenadine, served over ice and often garnished with a fruit slice and/or cherry.
+	124	What is a Sidecar?
+	•	A Sidecar is a cocktail typically made with brandy, orange liqueur, and lemon juice, served chilled in a sugar-rimmed glass and often garnished with a twist of lemon.
+	125	What is a Bloody Mary?
+	•	A Bloody Mary is a cocktail typically made with vodka, tomato juice, and various spices and seasonings, served over ice and often garnished with a celery stalk and/or a lemon wedge.
+	126	What is a Mimosa?
+	•	A Mimosa is a cocktail typically made with champagne or sparkling wine and orange juice, served chilled in a champagne flute and often garnished with an orange slice.
+	127	What is a Bellini?
+	•	A Bellini is a cocktail typically made with champagne or sparkling wine and peach puree, served chilled in a champagne flute and often garnished with a slice of peach.
+	128	What is a Kir Royale?
+	•	A Kir Royale is a cocktail typically made with champagne or sparkling wine and creme de cassis (a blackcurrant liqueur), served chilled in a champagne flute.
+	129	What is a Jack and Coke?
+	•	A Jack and Coke, also known as a "Coca-Cola Cowboy," is a cocktail typically made with Jack Daniel's whiskey and Coca-Cola, served over ice and often garnished with a lime wedge.
+	130	What is a Lynchburg Lemonade?
+	•	A Lynchburg Lemonade is a cocktail typically made with Jack Daniel's whiskey, triple sec, lemon juice, and lemon-lime soda, served over ice and often garnished with a lemon wedge.
+	131	What is a Long Island Iced Tea?
+	•	A Long Island Iced Tea is a cocktail typically made with several types of liquor, including vodka, gin, rum, and tequila, as well as lemon juice, cola, and sometimes triple sec, served over ice and often garnished with a lemon wedge.
+	132	What is a Margarita?
+	•	A Margarita is a cocktail typically made with tequila, lime juice, and triple sec, served over ice and often with a salt rim and garnished with a lime wedge.
+	133	What is a Tequila Sunrise?
+	•	A Tequila Sunrise is a cocktail typically made with tequila, orange juice, and grenadine, served over ice and often garnished with a fruit slice.
+	134	What is a Daiquiri?
+	•	A Daiquiri is a cocktail typically made with rum, lime juice, and simple syrup, served chilled in a martini glass and often garnished with a lime wheel.
+	135	What is a Pina Colada?
+	•	A Pina Colada is a cocktail typically made with rum, pineapple juice, and coconut cream, served blended or shaken with ice and often garnished with a pineapple wedge and/or cherry.
+	136	What is a Mojito?
+	•	A Mojito is a cocktail typically made with rum, lime juice, sugar, mint leaves, and soda water, served over ice and often garnished with a sprig of mint and/or a lime wedge.
+	137	What is a Caipirinha?
+	•	A Caipirinha is a cocktail typically made with cachaça (a Brazilian spirit), lime juice, and sugar, served over ice and often garnished with a lime wedge.
+	138	What is a Sangria?
+	•	A Sangria is a wine-based cocktail typically made with red or white wine, brandy, fruit juices (such as orange and lemon), and sliced fruit, served over ice and often garnished with a fruit slice.
+	139	What is a White Russian?
+	•	A White Russian is a cocktail typically made with vodka, coffee liqueur (such as Kahlua), and cream, served over ice and often garnished with a dusting of cocoa powder.
+	140	What is a Black Russian?
+	•	A Black Russian is a cocktail typically made with vodka and coffee liqueur, served over ice and often garnished with a cherry.
+	141	What is a Brandy Alexander?
+	•	A Brandy Alexander is a cocktail typically made with brandy, creme de cacao, and cream, served chilled in a martini glass and often garnished with nutmeg.
+	142	What is a Grasshopper?
+	•	A Grasshopper is a cocktail typically made with creme de menthe, creme de cacao, and cream, served chilled in a martini glass and often garnished with a mint leaf.
+	143	What is a Harvey Wallbanger?
+	•	A Harvey Wallbanger is a cocktail typically made with vodka, orange juice, and Galliano (a herbal liqueur), served over ice and often garnished with an orange slice.
+	144	What is a Rusty Nail?
+	•	A Rusty Nail is a cocktail typically made with Scotch whiskey and Drambuie (a honey and herb liqueur), served over ice and often garnished with a lemon twist.
+	145	What is a Rob Roy?
+	•	A Rob Roy is a cocktail typically made with Scotch whiskey, sweet vermouth, and bitters, served chilled in a martini glass and often garnished with a cherry.
+	146	What is a Manhattan?
+	•	A Manhattan is a cocktail typically made with whiskey, sweet vermouth, and bitters, served chilled in a martini glass and often garnished with a cherry.
+	147	What is a Martini?
+	•	A Martini is a cocktail typically made with gin and dry vermouth, served chilled in a martini glass and often garnished with a olive or a twist of lemon.
+	148	What is a Dirty Martini?
+	•	A Dirty Martini is a variation of a Martini, typically made with gin or vodka, dry vermouth, and olive brine, served chilled in a martini glass and often garnished with a olive or a twist of lemon.
+	149	What is a Gibson?
+	•	A Gibson is a variation of a Martini, typically made with gin or vodka and dry vermouth, served chilled in a martini glass and garnished with a pickled onion.
+	150	What is a Cosmopolitan?
+	•	A Cosmopolitan is a cocktail typically made with vodka, triple sec, cranberry juice, and lime juice, served chilled in a martini glass and often garnished with a twist of lemon or a lime wedge.
+	151	What is a Bloody Mary?
+	•	A Bloody Mary is a cocktail typically made with vodka, tomato juice, and a combination of spices and flavorings, such as Worcestershire sauce, Tabasco sauce, and celery salt, served over ice and often garnished with a celery stalk and/or a lemon wedge.
+	152	What is a Mimosa?
+	•	A Mimosa is a cocktail typically made with champagne and orange juice, served chilled in a champagne flute and often garnished with a fruit slice.
+	153	What is a Bellini?
+	•	A Bellini is a cocktail typically made with champagne and peach puree, served chilled in a champagne flute and often garnished with a peach slice.
+	154	What is a Champagne Cocktail?
+	•	A Champagne Cocktail is a cocktail typically made with champagne, sugar, and bitters, served chilled in a champagne flute and often garnished with a lemon twist.
+	155	What is a French 75?
+	•	A French 75 is a cocktail typically made with gin, lemon juice, sugar, and champagne, served chilled in a champagne flute and often garnished with a lemon twist.
+	156	What is a Sidecar?
+	•	A Sidecar is a cocktail typically made with cognac, triple sec, and lemon juice, served chilled in a sugar-rimmed glass and often garnished with a lemon twist.
+	157	What is a Whiskey Sour?
+	•	A Whiskey Sour is a cocktail typically made with whiskey, lemon juice, and sugar, served over ice and often garnished with a cherry and/or an orange slice.
+	158	What is a Tom Collins?
+	•	A Tom Collins is a cocktail typically made with gin, lemon juice, simple syrup, and soda water, served over ice and often garnished with a lemon wedge and/or a cherry.
+	159	What is a Bloody Caesar?
+	•	A Bloody Caesar is a variation of a Bloody Mary, typically made with vodka, Clamato juice, and a combination of spices and flavorings, served over ice and often garnished with a celery stalk and/or a lime wedge.
+	160	What is a Dark 'N' Stormy?
+	•	A Dark 'N' Stormy is a cocktail typically made with dark rum, ginger beer, and lime juice, served over ice and often garnished with a lime wedge.
+	161	What is a Margarita?
+	•	A Margarita is a cocktail typically made with tequila, lime juice, and triple sec, served over ice in a salt-rimmed glass and often garnished with a lime wedge.
+	162	What is a Daiquiri?
+	•	A Daiquiri is a cocktail typically made with rum, lime juice, and sugar, served chilled in a cocktail glass and often garnished with a lime wedge.
+	163	What is a Mai Tai?
+	•	A Mai Tai is a cocktail typically made with rum, lime juice, orange curaçao, almond syrup, and grenadine, served over ice and often garnished with a fruit slice and a sprig of mint.
+	164	What is a Pina Colada?
+	•	A Pina Colada is a cocktail typically made with rum, pineapple juice, and coconut cream, blended with ice and served in a hurricane glass, often garnished with a pineapple wedge and/or a cherry.
+	165	What is a Mojito?
+	•	A Mojito is a cocktail typically made with rum, lime juice, sugar, mint leaves, and soda water, served over ice in a highball glass and often garnished with a sprig of mint.
+	166	What is a Caipirinha?
+	•	A Caipirinha is a cocktail typically made with cachaça, sugar, and lime, muddled together and served over ice in a lowball glass, often garnished with a lime wedge.
+	167	What is a Sangria?
+	•	A Sangria is a wine-based cocktail typically made with red or white wine, brandy, fruit juice, sugar, and chopped fruit, served chilled in a pitcher or individual glasses and often garnished with fresh fruit slices.
+	168	What is a Moscow Mule?
+	•	A Moscow Mule is a cocktail typically made with vodka, ginger beer, and lime juice, served over ice in a copper mug and often garnished with a lime wedge.
+	169	What is a Hot Toddy?
+	•	A Hot Toddy is a warm cocktail typically made with whiskey, honey, lemon juice, and hot water, often garnished with a lemon wedge and a cinnamon stick.
+	170	What is a Irish Coffee?
+	•	An Irish Coffee is a warm cocktail typically made with Irish whiskey, hot coffee, sugar, and whipped cream, often garnished with a sprinkle of nutmeg or cocoa powder.
+	171	What is a Sazerac?
+	•	A Sazerac is a cocktail typically made with rye whiskey, absinthe, sugar, and Peychaud's bitters, served over ice in an absinthe-rinsed glass and often garnished with a lemon twist.
+	172	What is a Manhattan?
+	•	A Manhattan is a cocktail typically made with whiskey, sweet vermouth, and bitters, served over ice in a cocktail glass and often garnished with a cherry.
+	173	What is a Negroni?
+	•	A Negroni is a cocktail typically made with gin, sweet vermouth, and Campari, served over ice in a lowball glass and often garnished with an orange twist.
+	174	What is a Paloma?
+	•	A Paloma is a cocktail typically made with tequila, grapefruit soda, lime juice, and salt, served over ice in a highball glass and often garnished with a lime wedge.
+	175	What is a Aperol Spritz?
+	•	A Aperol Spritz is a cocktail typically made with Aperol, Prosecco, and soda water, served over ice in a wine glass and often garnished with an orange slice.
+	176	What is a Bloody Mary?
+	•	A Bloody Mary is a cocktail typically made with vodka, tomato juice, and a combination of other ingredients like Worcestershire sauce, hot sauce, lemon juice, and celery salt, served over ice in a highball glass and often garnished with a celery stalk and/or other garnishes like olives, pickles, or bacon.
+	177	What is a Cosmopolitan?
+	•	A Cosmopolitan is a cocktail typically made with vodka, cranberry juice, lime juice, and triple sec, served chilled in a martini glass and often garnished with a lime wedge.
+	178	What is a Bellini?
+	•	A Bellini is a cocktail typically made with Prosecco and peach puree, served chilled in a champagne flute and often garnished with a slice of peach.
+	179	What is a French 75?
+	•	A French 75 is a cocktail typically made with gin, lemon juice, sugar, and champagne, served chilled in a champagne flute and often garnished with a lemon twist.
+	180	What is a Mint Julep?
+	•	A Mint Julep is a cocktail typically made with bourbon, sugar, water, and mint leaves, served over crushed ice in a silver or pewter cup and often garnished with a sprig of mint.
+	181	What is a Sidecar?
+	•	A Sidecar is a cocktail typically made with cognac, orange curaçao, and lemon juice, served chilled in a cocktail glass and often garnished with a sugar rim and/or a lemon twist.
+	182	What is a Vesper?
+	•	A Vesper is a cocktail typically made with gin, vodka, and Lillet Blanc, served chilled in a martini glass and often garnished with a lemon twist.
+	183	What is a Gibson?
+	•	A Gibson is a cocktail typically made with gin and dry vermouth, served chilled in a cocktail glass and often garnished with a pickled onion.
+	184	What is a Rusty Nail?
+	•	A Rusty Nail is a cocktail typically made with Scotch whisky and Drambuie, served over ice in a lowball glass and often garnished with a lemon twist.
+	185	What is a Tequila Sunrise?
+	•	A Tequila Sunrise is a cocktail typically made with tequila, orange juice, and grenadine, served over ice in a highball glass and often garnished with a slice of orange and/or a cherry.
+	186	What is a Zombie?
+	•	A Zombie is a cocktail typically made with multiple types of rum, lime juice, pineapple juice, grenadine, and various other ingredients like apricot brandy, Falernum, and Angostura bitters, served over ice in a tiki mug and often garnished with fruit slices and/or a sprig of mint.
+	187	What is a Hurricane?
+	•	A Hurricane is a cocktail typically made with rum, fruit juice, and syrup, served over ice in a hurricane glass and often garnished with a fruit slice and/or a cherry.
+	188	What is a Singapore Sling?
+	•	A Singapore Sling is a cocktail typically made with gin, pineapple juice, lime juice, cherry liqueur, and grenadine, served over ice in a hurricane glass and often garnished with a fruit slice and/or a cherry.
+	189	What is a Bramble?
+	•	A Bramble is a cocktail typically made with gin, lemon juice, sugar, and blackberry liqueur, served over crushed ice in a lowball glass and often garnished with fresh blackberries and/or a lemon wedge.
+	190	What is a Dark and Stormy?
+	•	A Dark and Stormy is a cocktail typically made with dark rum and ginger beer, served over ice in a highball glass and often garnished with a lime
+	191	What is a Margarita?
+	•	A Margarita is a cocktail typically made with tequila, lime juice, and triple sec, served chilled in a salt-rimmed cocktail glass and often garnished with a lime wedge.
+	192	What is a Daiquiri?
+	•	A Daiquiri is a cocktail typically made with rum, lime juice, and sugar, served chilled in a cocktail glass and often garnished with a lime wedge.
+	193	What is a Mojito?
+	•	A Mojito is a cocktail typically made with white rum, lime juice, sugar, soda water, and mint leaves, served over ice in a highball glass and often garnished with a sprig of mint.
+	194	What is a Pina Colada?
+	•	A Pina Colada is a cocktail typically made with rum, pineapple juice, and coconut cream, served blended or shaken with ice in a hurricane glass and often garnished with a pineapple wedge and/or a cherry.
+	195	What is a Moscow Mule?
+	•	A Moscow Mule is a cocktail typically made with vodka, ginger beer, and lime juice, served over ice in a copper mug and often garnished with a lime wedge.
+	196	What is a White Russian?
+	•	A White Russian is a cocktail typically made with vodka, coffee liqueur, and heavy cream, served over ice in a lowball glass and often garnished with a sprinkle of nutmeg or cocoa powder.
+	197	What is a Black Russian?
+	•	A Black Russian is a cocktail typically made with vodka and coffee liqueur, served over ice in a lowball glass and often garnished with a cherry.
+	198	What is a Grasshopper?
+	•	A Grasshopper is a cocktail typically made with crème de menthe, crème de cacao, and cream, served shaken or blended with ice in a cocktail glass and often garnished with a sprinkle of cocoa powder.
+	199	What is a Whiskey Sour?
+	•	A Whiskey Sour is a cocktail typically made with whiskey, lemon juice, and sugar, served chilled in a cocktail glass and often garnished with a cherry and/or a lemon wedge.
+	200	What is a Rob Roy?
+	•	A Rob Roy is a cocktail typically made with Scotch whisky, sweet vermouth, and Angostura bitters, served chilled in a cocktail glass and often garnished with a cherry.
